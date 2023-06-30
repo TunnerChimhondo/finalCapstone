@@ -21,5 +21,6 @@ For more details and the full article i used, please refer to the [link](https:/
 
 ## Credits
 This project was developed by Tunner Chimhondo as part of the HyperionDev Data Science Bootcamp Capstone Project (DS T22).
+
 email address - tchimhondo@gmail.com
 
