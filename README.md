@@ -17,7 +17,7 @@ c. A model that provides assistive technology for doctors to provide their diagn
 Compulsory Task 2
 For this task, we were required to read up on any innovative technology using NLP by companies like Google or IBM and write a brief summary. Describe the technology, its achievements, and what it does, and provide an overview of how it works. Then write a summary between 250 and 500 words.
 
-For more details and the full article i used, please refer to the [link](https://www.techtarget.com/searchenterpriseai/news/252526461/IBM-expands-Embedda ble-AI-software-with-NLP-capabilities).
+For more details and the full article i used, please refer to the (https://www.techtarget.com/searchenterpriseai/news/252526461/IBM-expands-Embeddable-AI-software-with-NLP-capabilities).
 
 ## Credits
 This project was developed by Tunner Chimhondo as part of the HyperionDev Data Science Bootcamp Capstone Project (DS T22).
