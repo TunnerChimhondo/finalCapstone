@@ -4,7 +4,6 @@ Welcome to the repository for my capstone project as part of the HyperionDev Dat
 
 Contents / Files
 ## NLP_1: 
-Task Details
 Compulsory Task 1
 In this task, you are required to categorize the type of NLP application that applies to each of the following use cases:
 
